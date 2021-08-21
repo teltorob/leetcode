@@ -6,7 +6,6 @@ class Solution:
             return s
         
         if sLen>1:
-            firstPos=0
             secondPos=0
             
             pal=''
