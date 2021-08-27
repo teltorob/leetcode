@@ -6,4 +6,4 @@ class Solution:
 
 if __name__ == "__main__":
     soln=Solution()
-    soln.removeDuplicates([1,1,2])
+    soln.removeDuplicates([-1,0,0,0,0,3,3])
