@@ -24,6 +24,6 @@ class Solution:
 
 if __name__ == "__main__":
     soln=Solution()
-    print(soln.removeDuplicates("PAYPALISHIRING"))
+    print(soln.convert("PAYPALISHIRING",3))
 
-    #  PINALSIGYAHRPI  is the expected output
+    #  PAHNAPLSIIGYIR  is the expected output
